@@ -17,6 +17,6 @@ allprojects{
 
 dependencies {
     implementation 'org.terasoluna.gfw:terasoluna-gfw-jodatime:5.7.0.RELEASE'
-    implementation 'com.github.frogfoot9013:CT417Assignment1:v1.0.4'
+    implementation 'com.github.frogfoot9013:CT417Assignment1:v1.0.5'
     testImplementation     'junit:junit:4.13'
 }
